@@ -50,7 +50,6 @@
       },
       "source_files": "ReactiveCocoa/**/*.{d,h,m,swift}",
       "exclude_files": [
-        "**/ReactiveCocoa.h",
         "ReactiveCocoa/**/*{RACObjCRuntime,AppKit,NSControl,NSText,NSTable,UIActionSheet,UIAlertView,UIBarButtonItem,UIButton,UICollectionReusableView,UIControl,UIDatePicker,UIGestureRecognizer,UIImagePicker,UIRefreshControl,UISegmentedControl,UISlider,UIStepper,UISwitch,UITableViewCell,UITableViewHeaderFooterView,UIText,MK}*"
       ],
       "header_dir": "ReactiveCocoa",
