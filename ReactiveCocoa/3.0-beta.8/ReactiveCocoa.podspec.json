@@ -28,14 +28,6 @@
   },
   "subspecs": [
     {
-      "name": "Swift",
-      "source_files": "ReactiveCocoa/Swift",
-      "exclude_files": [
-        "ReactiveCocoa/Swift/ObjectiveCBridging.swift"
-      ],
-      "frameworks": "Foundation"
-    },
-    {
       "name": "no-arc",
       "source_files": "ReactiveCocoa/Objective-C/RACObjCRuntime.{h,m}",
       "requires_arc": false,
